@@ -1,2 +1,2 @@
 # mnist_model
-some ML things
+some ML things for school
